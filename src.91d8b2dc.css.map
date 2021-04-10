@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,MACE,eACF,CACA,MACE,oBAAqB,CACrB,cACF,CACA,4BACE,kBACF","file":"src.91d8b2dc.css","sourceRoot":"..\\src","sourcesContent":[".list {\r\n  list-style: none;\r\n}\r\n.link {\r\n  text-decoration: none;\r\n  font-size: 24px;\r\n}\r\n.list-item:not(:last-child) {\r\n  margin-bottom: 10px;\r\n}\r\n"]}
